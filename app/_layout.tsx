@@ -28,7 +28,6 @@ export default function RootLayout() {
         options={{
           title: "Pokemon Details",
           headerBackButtonDisplayMode: "minimal",
-          presentation: "modal",
         }}
       />
     </Stack>
